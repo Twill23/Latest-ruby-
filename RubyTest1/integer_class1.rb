@@ -1,0 +1,15 @@
+age = 18
+puts age
+puts age.class
+
+number = 36
+puts number
+puts number.class
+
+number2 = 12323223223223223223223232323232323232323232323232
+puts number2
+puts number2.class
+
+number3 = 12323232323231111111111111111111111111111111111111111111111111111111111111111111
+puts number3
+puts number3.class
